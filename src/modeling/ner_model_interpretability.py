@@ -46,7 +46,7 @@ def load_conll_data(file_path):
     return sentences, labels
 
 # Define the path for the training data
-train_file_path = r'C:\Users\hayyu.ragea\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\labeled_messages.conll'
+train_file_path = r'C:\Users\Yoftahe.Tesfaye\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\labeled_messages.conll'
 
 # Load training dataset
 train_sentences, train_labels = load_conll_data(train_file_path)
@@ -97,7 +97,7 @@ training_args = TrainingArguments(
 )
 
 # Directory to save fine-tuned models
-model_save_dir = r'C:\Users\hayyu.ragea\AppData\Local\Programs\Python\Python312\EthioMart\fine_tuned_ner_model'
+model_save_dir = r'C:\Users\Yoftahe.Tesfaye\AppData\Local\Programs\Python\Python312\EthioMart\fine_tuned_ner_model'
 
 # Initialize a dictionary to store metrics for each model
 metrics_results = {}
