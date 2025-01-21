@@ -46,7 +46,7 @@ Clone the repository from GitHub:
 
 bash
 Copy code
-git clone https://github.com/HaYyu-Ra/EthioMart.git
+git clone (https://github.com/Yoftahe2/EthioMart)
 Navigate to the project directory:
 
 bash
