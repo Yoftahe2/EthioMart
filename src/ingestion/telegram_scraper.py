@@ -12,9 +12,9 @@ API_HASH = '2a3f5d1d5e677274fc404071bb6bf1bd'  # Your API Hash
 CHANNEL_USERNAME = 'Fashiontera'  # Public username for the Fashiontera channel
 
 # File paths
-RAW_CSV_FILE_PATH = r"C:\Users\hayyu.ragea\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\messages.csv"
-CLEANED_CSV_FILE_PATH = r"C:\Users\hayyu.ragea\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\cleaned_messages.csv"
-LABELED_CONLL_FILE_PATH = r"C:\Users\hayyu.ragea\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\labeled_messages.conll"
+RAW_CSV_FILE_PATH = r"C:\Users\Yoftahe.Tesfaye\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\messages.csv"
+CLEANED_CSV_FILE_PATH = r"C:\Users\Yoftahe.Tesfaye\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\cleaned_messages.csv"
+LABELED_CONLL_FILE_PATH = r"C:\Users\Yoftahe.Tesfaye\AppData\Local\Programs\Python\Python312\EthioMart\EthioMart\data\raw\labeled_messages.conll"
 
 # Function to clean the message content
 def clean_message(content):
